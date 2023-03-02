@@ -56,7 +56,7 @@ DB_DATABASE={database-name}
 DB_USERNAME={username-database}
 DB_PASSWORD={password-database}
 ```
-9. Migrate the database
+9. Migrate the database or import db_ponpes1.sql
 ```bash
 php artisan migrate
 ```
