@@ -29,9 +29,9 @@ git clone https://github.com/muhammadyunuss/ta-pesantren-web.git
 ```bash
 cd ta-pesantren-web
 ```
-3. Install Composer dependencies
+3. Install Composer dependencies or extract here vendor dan env.zip
 ```bash
-composer install or extract here vendor dan env.zip
+composer install 
 ```
 4. Install NPM dependencies
 ```bash
