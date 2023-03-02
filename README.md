@@ -31,13 +31,13 @@ cd ta-pesantren-web
 ```
 3. Install Composer dependencies
 ```bash
-composer install
+composer install or extract here vendor dan env.zip
 ```
 4. Install NPM dependencies
 ```bash
 npm install
 ```
-5. Create a copy of your .env file
+5. Create a copy of your .env file or extract here vendor dan env.zip
 ```bash
 cp .env.example .env
 ```
