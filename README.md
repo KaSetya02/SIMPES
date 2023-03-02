@@ -70,14 +70,14 @@ php artisan db:seed
 ```
 12. Running project
 ```bash
-php artisan serve
+php artisan serve or npm run dev
 ```
 
 ### User Credentials in Seeder
 | #        | Super Administrator    | Admin            | Wali Murid              |
 | -------- | ---------------- | ------------------- | ------------------- |
 | Email    | superadmin@superadmin.com | admin@admin.com | walimurid@walimurid.com |
-| Password | 123123123         | 123123123            | 123123123            |
+| Password | admin123         | 123123123            | 123123123            |
 
 ## License
 
